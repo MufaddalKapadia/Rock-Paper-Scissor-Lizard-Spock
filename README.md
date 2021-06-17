@@ -1,4 +1,5 @@
-** Rock-Paper-Scissor-Lizard-Spock **
+**Rock-Paper-Scissor-Lizard-Spock**
+
 Variant of the famous Rock-Paper-Scissor game implemented in Python
 
 Rules in the words of Sheldon Cooper:
