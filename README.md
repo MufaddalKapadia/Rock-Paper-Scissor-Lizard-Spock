@@ -12,4 +12,4 @@ Rules in the words of Sheldon Cooper:
 * Lizard eats Paper
 * Paper disproves Spock
 * Spock vaporizes Rock
-* (and as it always has) Rock crushes Scissors"
+* (and as it always has) Rock crushes Scissors
